@@ -1,0 +1,119 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Onlyfans",
+      "image": "https://raw.githubusercontent.com/badasdemon/sk1nb33/main/Gu1d3/640.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Onlyfans",
+      "title": "A Step by Step Guide",
+      "image": "https://raw.githubusercontent.com/badasdemon/sk1nb33/main/Gu1d3/640.png",
+      "description": "",
+      "link": "https://1jutaperday.link/Android/Guide/Onlyfans/A%20Step%20by.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Onlyfans",
+      "title": "Make Serious Money On OnlyFans",
+      "image": "https://raw.githubusercontent.com/badasdemon/sk1nb33/main/Gu1d3/640.png",
+      "description": "",
+      "link": "https://1jutaperday.link/Android/Guide/Onlyfans/Make%20Serious.html"
+   },
+    {
+      
+      "id": 3,
+      "name_category": "Onlyfans",
+      "title": "How To Become An OnlyFans Creator",
+      "image": "https://raw.githubusercontent.com/badasdemon/sk1nb33/main/Gu1d3/640.png",
+      "description": "",
+      "link": "https://1jutaperday.link/Android/Guide/Onlyfans/How%20To%20Become.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Onlyfans",
+      "title": "How To Start An OnlyFans",
+      "image": "https://raw.githubusercontent.com/badasdemon/sk1nb33/main/Gu1d3/640.png",
+      "description": "",
+      "link": "https://1jutaperday.link/Android/Guide/Onlyfans/How%20To%20Start.html"
+    },
+        {
+      "id": 5,
+      "name_category": "Onlyfans",
+      "title": "Ten Things To Do After Joining OnlyFans",
+      "image": "https://raw.githubusercontent.com/badasdemon/sk1nb33/main/Gu1d3/640.png",
+      "description": "",
+      "link": "https://1jutaperday.link/Android/Guide/Onlyfans/Ten%20Things.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Onlyfans",
+      "title": "OnlyFans Tipping 101",
+      "image": "https://raw.githubusercontent.com/badasdemon/sk1nb33/main/Gu1d3/640.png",
+      "description": "",
+      "link": "https://1jutaperday.link/Android/Guide/Onlyfans/Tipping%20101.html"
+   },
+    {
+      
+      "id": 7,
+      "name_category": "Onlyfans",
+      "title": "Make money on OnlyFans without showing your face",
+      "image": "https://raw.githubusercontent.com/badasdemon/sk1nb33/main/Gu1d3/640.png",
+      "description": "",
+      "link": "https://1jutaperday.link/Android/Guide/Onlyfans/Make%20money.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Onlyfans",
+      "title": "How To Make Money On OnlyFans",
+      "image": "https://raw.githubusercontent.com/badasdemon/sk1nb33/main/Gu1d3/640.png",
+      "description": "",
+      "link": "https://1jutaperday.link/Android/Guide/Onlyfans/How%20To%20Make.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Onlyfans",
+      "title": "Guys…All You Need To Know About Starting Your OnlyFans Page: Best 7 Tips",
+      "image": "https://raw.githubusercontent.com/badasdemon/sk1nb33/main/Gu1d3/640.png",
+      "description": "",
+      "link": "https://1jutaperday.link/Android/Guide/Onlyfans/Guys%E2%80%A6All.html"
+    }
+  ]
+}
