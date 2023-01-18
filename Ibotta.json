@@ -1,0 +1,119 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Ibotta",
+      "image": "https://1jutaperday.link/Android/Guide/Ibotta/banner.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Ibotta",
+      "title": "4 Things To Know",
+      "image": "https://1jutaperday.link/Android/Guide/Ibotta/banner.png",
+      "description": "",
+      "link": "https://1jutaperday.link/Android/Guide/Ibotta/4%20Things%20To%20Know.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Ibotta",
+      "title": "Beginner's Guide to Ibotta",
+      "image": "https://1jutaperday.link/Android/Guide/Ibotta/banner.png",
+      "description": "",
+      "link": "https://1jutaperday.link/Android/Guide/Ibotta/Beginner's%20Guide%20to%20Ibotta.html"
+   },
+    {
+      
+      "id": 3,
+      "name_category": "Ibotta",
+      "title": "How Does Ibotta Work",
+      "image": "https://1jutaperday.link/Android/Guide/Ibotta/banner.png",
+      "description": "",
+      "link": "https://1jutaperday.link/Android/Guide/Ibotta/How%20Does%20Ibotta%20Work.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Ibotta",
+      "title": "How to Earn Money Shopping",
+      "image": "https://1jutaperday.link/Android/Guide/Ibotta/banner.png",
+      "description": "",
+      "link": "https://1jutaperday.link/Android/Guide/Ibotta/How%20to%20Earn%20Money%20Shopping.html"
+    },
+        {
+      "id": 5,
+      "name_category": "Ibotta",
+      "title": "How To Use Ibotta For Fast Cash",
+      "image": "https://1jutaperday.link/Android/Guide/Ibotta/banner.png",
+      "description": "",
+      "link": "https://1jutaperday.link/Android/Guide/Ibotta/How%20To%20Use%20Ibotta%20For%20Fast%20Cash.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Ibotta",
+      "title": "Ibotta Cheat Sheet",
+      "image": "https://1jutaperday.link/Android/Guide/Ibotta/banner.png",
+      "description": "",
+      "link": "https://1jutaperday.link/Android/Guide/Ibotta/Ibotta%20Cheat%20Sheet.html"
+   },
+    {
+      
+      "id": 7,
+      "name_category": "Ibotta",
+      "title": "Ibotta Cheats Sheet for Hacks",
+      "image": "https://1jutaperday.link/Android/Guide/Ibotta/banner.png",
+      "description": "",
+      "link": "https://1jutaperday.link/Android/Guide/Ibotta/Ibotta%20Cheats%20Sheet%20for%20Hacks.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Ibotta",
+      "title": "Ibotta Review",
+      "image": "https://1jutaperday.link/Android/Guide/Ibotta/banner.png",
+      "description": "",
+      "link": "https://1jutaperday.link/Android/Guide/Ibotta/Ibotta%20Review.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Ibotta",
+      "title": "How Does Ibotta Make Money",
+      "image": "https://1jutaperday.link/Android/Guide/Ibotta/banner.png",
+      "description": "",
+      "link": "https://1jutaperday.link/Android/Guide/Ibotta/How%20Does%20Ibotta%20Make%20Money.html"
+    }
+  ]
+}
